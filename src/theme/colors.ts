@@ -1,9 +1,10 @@
 export const colors = {
   black: '#000000',
   white: '#ffffff',
-  darkGrey: '#333333',
-  darkGrey2: '#3A3939',
+  darkGrey: 'rgba(51, 51, 51, 1)',
+  darkGrey2: 'rgba(58, 57, 57, 1)',
+  darkGrey7: 'rgba(120, 120, 120, 1)',
   hudiYellow: '#FEE05B',
-  lighterGrey: '#F5F5F5',
-  lighterGreen: '#E0F4FB',
+  lighterGrey: '#E0E0E0',
+  lighterGreen: 'rgba(224, 244, 251, 1)',
 };

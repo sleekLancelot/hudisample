@@ -72,8 +72,6 @@ const styles = StyleSheet.create({
   button: {
     marginHorizontal: wp(24),
     width: widthPercentageToDP(90),
-    // marginLeft: 'auto',
-    // marginRight: 'auto',
     position: 'absolute',
     bottom: 20,
   }

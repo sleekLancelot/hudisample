@@ -89,6 +89,7 @@ const Button: React.FC<ButtonProps> = ({
           <CustomText.BodySmall
             color={textColor}
             fontFamily={'CircularStd-Medium'}
+            fontSize={wp(17)}
             // customStyles={{flex: 1}}
             textAlign={'center'}>
             {title}

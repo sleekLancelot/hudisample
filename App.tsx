@@ -1,7 +1,6 @@
 import 'react-native-gesture-handler';
 import { useCallback, useEffect } from 'react';
-import { StatusBar } from 'expo-status-bar';
-import { Platform, StyleSheet, Text, UIManager, View } from 'react-native';
+import { Platform, UIManager } from 'react-native';
 import {useFonts} from 'expo-font';
 import * as SplashScreen from 'expo-splash-screen';
 import { customFonts } from '@theme/customFonts';

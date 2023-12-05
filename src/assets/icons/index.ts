@@ -1,1 +1,5 @@
 export * from './BackIcon'
+export * from './FajrIcon'
+export * from './JannahIcon'
+export * from './JannahIcon'
+export * from './KursiIcon'

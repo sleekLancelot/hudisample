@@ -14,7 +14,7 @@ interface ScreenWrapperProps {
 
 const ScreenWrapper = ({
     statusBarStyle = 'dark-content',
-    statusBarBackgroundColor= colors.lighterGrey,
+    statusBarBackgroundColor= colors.white,
     customStyles,
     statusBarTranslucent= false,
     useSafeArea= true,

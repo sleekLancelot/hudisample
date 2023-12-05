@@ -1,5 +1,5 @@
 // packages
-import {Dimensions, PixelRatio, Platform} from 'react-native';
+import {Dimensions, PixelRatio, Platform, StatusBar} from 'react-native';
 
 // Retrieve initial screen's width
 let screenWidth = Dimensions.get('window').width;
@@ -52,3 +52,5 @@ export const wp = (width: number) => {
 };
 
 export const isTablet = () => Dimensions.get('screen').width >= 768
+
+export const STATUSBAR_HEIGHT = StatusBar.currentHeight;
