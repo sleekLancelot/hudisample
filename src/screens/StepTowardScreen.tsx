@@ -42,6 +42,7 @@ const StepTowardScreen = () => {
                 marginBottom={hp(10)}
                 customStyles={styles.italic}
                 color={colors.darkGrey}
+                fontFamily={'CircularStd-MediumItalic'}
               >
                 All our dreams can come true, if we have the courage to pursue them. 
               </CustomText.BodySmall>
@@ -94,7 +95,6 @@ const styles = StyleSheet.create({
     flexBasis: '95%',
   },
   italic: {
-    fontStyle: 'italic',
     fontWeight: '500',
   },
   button: {

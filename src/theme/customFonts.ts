@@ -6,4 +6,6 @@ export const customFonts = {
   'CircularStd-Black': require('@assets/fonts/CircularStd-Black.otf'),
 
   'CircularStd-Medium': require('@assets/fonts/CircularStd-Medium.otf'),
+
+  'CircularStd-MediumItalic': require('@assets/fonts/CircularStd-MediumItalic.otf'),
 };

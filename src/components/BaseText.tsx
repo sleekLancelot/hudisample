@@ -18,6 +18,7 @@ export interface BaseTextT extends TextProps {
     | 'CircularStd-Book'
     | 'CircularStd-Black'
     | 'CircularStd-Medium'
+    | 'CircularStd-MediumItalic'
   color?: string;
   textAlign?: 'auto' | 'left' | 'right' | 'center' | 'justify' | undefined;
   customStyles?: StyleProp<TextStyle>;
