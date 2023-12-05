@@ -20,3 +20,8 @@ You can run the app using the following commands:
 ## preview
 
 **ios**
+
+
+https://github.com/sleekLancelot/hudisample/assets/50272322/16a53d77-fe45-4a63-907e-42f470cd0438
+
+**andriod**
